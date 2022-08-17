@@ -5,6 +5,7 @@
 - 🌱 As I pivot into more technical roles, I'd like to use this space to share what I know and receive feedback from those willing to share!
 - :heart: I love solving problems and truly enjoy leveraging data to get to the heart of an issue and provide valuable insights!
 - 💬 Please do not hesitate to reach out if you have any questions or feedback. I look forward to connecting!.
+    :point_right: [<img width="18" alt="linkedin6" src="https://user-images.githubusercontent.com/78654839/185013150-6eff954b-ee38-4e25-843a-af3fd12bfbc3.png">][1] :point_left:
 - ⚡ Fun fact: I love Afro-futurism books, escape rooms, hiking and dancing.
 
 
@@ -21,6 +22,6 @@
 
 Thank you for visiting, enjoy!
 
-## ***-Summer Clark-Bey***  [![linkedin4](https://user-images.githubusercontent.com/78654839/184804987-d67cc55f-9503-4d9f-a32c-886c4d32539a.png)][1]
+## ***-Summer Clark-Bey***  
 
 [1]: https://www.linkedin.com/in/summerclarkbey/
