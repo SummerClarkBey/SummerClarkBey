@@ -8,14 +8,16 @@
 - ⚡ Fun fact: I love Afro-futurism books, escape rooms, hiking and dancing.
 
 
-### Areas of focus:
+### Areas of focus & experience:
 
-|**Programming Languages:** | **Data Science Specializations:** | 
-| :---------------:    |:---------------:                     | 
-| SQL                  | Data Mining and Statistical Analysis | 
-| Python               | Data Visualization                   | 
-| R                    | Business Intelligence                |
-|                      | ML & AI                              |
+|**Functional:**        |**Programming Languages:** | **Data Science Specializations:** | 
+| :---------------:    | :---------------:  |:---------------:                | 
+| Project Managment | SQL                  | Data Mining and Statistical Analysis | 
+| Agile Methodology | Python               | Data Visualization                   | 
+| Requirements Gathering | R               | Business Intelligence                |
+| Stakeholder Management |                 | ML & AI                              |
+| Storyboarding |                          |                                      | 
+| SDLC              |                      |                                      | 
 
 
 
